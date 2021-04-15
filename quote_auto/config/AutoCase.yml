@@ -1,0 +1,19 @@
+LoginPage:
+  username: username
+  password: password
+  submit: submit
+  successinfo: /html/body/table/tbody/tr[1]/td/span
+  framemain: main
+CustomerPage:
+  frameleft: /html/frameset/frame[1]
+  customermanager: //*[@id="Bar_panel0_b0"]/img
+  addcuswindow: 新增客户信息
+  addButton: /html/body/center/table[2]/tbody/tr[2]/td[2]/a
+  customerNO: customerNO
+  customerName: customerName
+  phone: phone
+  address: address
+  relationman: relationman
+  saveButton: saveButton
+  successinfo: html/body/center
+  
